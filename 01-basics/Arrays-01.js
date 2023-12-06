@@ -12,7 +12,7 @@ let myArray = [0,1,2,3,4]
 // console.log(myArray)
 
 //myArray.unshift(10)
-console.log(myArray)
+console.log(myArray.__proto__)
 
-myArray.shift()
-console.log(myArray)
+//myArray.shift()
+//console.log(myArray)
